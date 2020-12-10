@@ -1,2 +1,2 @@
-# simple-laravel-vuejs
+# simple project laravel vuejs
 Register, Login, Dashboard
